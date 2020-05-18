@@ -11,6 +11,8 @@ Decided on the switches that'll be used with tvrg, it's Kailh Navy Blues.
 
 Cloned a qmk repo as a submodule to this one, so yeah, gonna prod it with a stick for a bit.
 
+Total spent: 1107 rub (15\$)
+
 ## Entry 2 - 18.05.2020
 Yeah boy.
 
@@ -24,3 +26,5 @@ What I bought on AE:
 - 4 pcs encoders: 520 rub (7\$)
 
 Total: 6060 rub (82.5$)
+
+Total spent: 7167 rub (97,5$)
