@@ -28,3 +28,12 @@ What I bought on AE:
 Total: 6060 rub (82.5$)
 
 Total spent: 7167 rub (97,5$)
+
+## Entry 3 - 19.05.2020
+Extruded a plate file to be printable with a 3D printer. Thing is, 1.5mm 3D-printed plate would be too floppy, so I made it 4mm. But then, how do I mount the switches securely, so they "click" in? A-ha! I made it so a small square around the switch hole is 1.5mm, while the rest is 4mm.
+That means though that I will need some fine-tuning with the thickness and the standoffs. We'll see about that, maybe there's no more tweaking required really.
+
+![platev1](./img/platev1.png)
+![platev1real](./img/platev1_real.jpg)
+
+Later I'll work on some encoder mounts, maybe. Or on a formed backplate. Either way, need to pass time while I wait for the components.
